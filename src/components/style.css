@@ -1,0 +1,23 @@
+.react-kanban-column {
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 8px;
+  }
+  
+  .react-kanban-card {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+  }
+  
+  .react-kanban-card__title {
+    font-size: large;
+    font-style: italic;
+  }
+  
+  .react-kanban-card--dragging {
+    background-color: rgb(14, 110, 16);
+    color: rgb(255, 255, 255);
+  }
+  
