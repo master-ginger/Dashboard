@@ -1,3 +1,9 @@
+# Details
+This project provides a sleek design for a student dashboard.
+Various features of the project:
+1. Calendars and Timelines
+2. Kanban task board
+3. Performance charts using chart.js
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
